@@ -12,7 +12,7 @@
 			<li>GIFs are experimental.</li>
 			<li>All images/material do not belong to anoram.</li>
 			<li>All images/material can change/evolve.</li>
-			<li>General URL format https://vadivelu.anoram.com/<b>FORMAT</b>/100</li>
+			<li>General URL format https://vadivelu.indenwolken.xyz/<b>FORMAT</b>/100</li>
 			<li>
 				You could suggest material <a href="https://github.com/anoram/http-vadivelu">here</a>.
 			</li>

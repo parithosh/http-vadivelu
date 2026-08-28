@@ -1,10 +1,10 @@
 <div class="rounded bg-gray-100 dark:bg-gray-900 dark:text-white py-6 px-4">
 	<h2 class="text-lg">Usage</h2>
-	<p>https://vadivelu.anoram.com/[format]/[status_code]</p>
+	<p>https://vadivelu.indenwolken.xyz/[format]/[status_code]</p>
 	<div>
 		<p>example</p>
 		<code>
-			<pre>https://vadivelu.anoram.com/gif/200</pre>
+			<pre>https://vadivelu.indenwolken.xyz/gif/200</pre>
 		</code>
 	</div>
 
@@ -13,7 +13,7 @@
 	</p>
 
 	<p class="text-gray-400">
-		*API prioritizes GIFs and if you need just the jpg version use https://vadivelu.anoram.com/<span
+		*API prioritizes GIFs and if you need just the jpg version use https://vadivelu.indenwolken.xyz/<span
 			class="text-pink-600">jpg</span
 		>/200
 	</p>
